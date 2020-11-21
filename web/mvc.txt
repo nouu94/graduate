@@ -1,0 +1,20 @@
+
+.
+├── abtest.py
+├── control
+│   ├── session_mgmt.py
+│   └── user_mgmt.py
+├── view
+│   └── blog.py
+├── db_model
+│   ├── mongodb.py
+│   └── mysql.py
+├── static
+│   ├── blog.css
+│   ├── brand
+│   └── dist
+└── templates
+    ├── blog_A.html
+    └── blog_B.html
+    └── file.html
+    └── introduce.html
